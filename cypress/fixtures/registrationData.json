@@ -1,0 +1,20 @@
+{
+    "companyCategoryIndex": 2,
+    "companyInfo": {
+        "catNumber": "1234",
+        "phone": "1234567890",
+        "validPassword": "Altamira2015#",
+        "invalidPassword": "short",
+        "mismatchedPassword": "differentPassword"
+    },
+    "termsAndConditionsSelector": {
+        "scrollableContainer": "app-tos.ng-star-inserted > .tos > #content-tos",
+        "acceptButton": "app-tos.ng-star-inserted > .tos > .botones > .dxf-btn-green",
+        "termsCheckbox": "#exampleCheck1"
+    },
+    "successMessage": "Exitoso",
+    "passwordMismatchError": "La contraseña y la confirmación de la contraseña no son la misma.",
+    "invalidPasswordError": "Por favor, complete los campos obligatorios.",
+    "emailValidationError": "No es un correo electrónico válido",
+    "visibilityTimeout": 10000
+}
